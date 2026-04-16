@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Hi%20I'm%20Thashmi%20Nadeesha&fontSize=50&animation=fadeIn" />
+  <img src="https://www.spreadshirt.ca/shop/design/kawaii+code+girl+adorable+anime+coder+design+sticker-D64babe032786927ffd7fc3fb?sellable=XyRVp2943BU4nYNae8mV-1459-215" />
 
   <h3>🚀 Full-Stack Developer | Mobile App Enthusiast | IT Student</h3>
 
