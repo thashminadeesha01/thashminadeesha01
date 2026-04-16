@@ -32,10 +32,15 @@ I am a passionate **Software Engineering student** and a **Full-Stack Developer*
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thashminadeesha01&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thashminadeesha01&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thashminadeesha01&layout=compact&theme=transparent&hide_border=true" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thashminadeesha01&theme=transparent&hide_border=true" />
 </div>
 
 ---
