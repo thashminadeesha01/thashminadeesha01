@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28X19Y0D1051374972W6292H10000/views/1,width=378,height=378,appearanceId=839,backgroundColor=F2F2F2/kawaii-code-girl-adorable-anime-coder-design.jpg" width="180" style="border-radius: 50%;" />
-
   <h3>🚀 Full-Stack Developer | Mobile App Enthusiast | IT Student</h3>
 
   <p align="center">
