@@ -46,6 +46,17 @@ I am a passionate **Software Engineering student** and a **Full-Stack Developer*
 </div>
 
 ---
+### 📊 Contribution Overview
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thashminadeesha01&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+  <br/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thashminadeesha01&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thashminadeesha01&layout=compact&theme=transparent&hide_border=true" />
+</div>
 
 ### 🤝 Connect with Me
 <p align="left">
