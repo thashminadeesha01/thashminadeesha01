@@ -1,11 +1,11 @@
 <div align="center">
-  <h3>🚀 Full-Stack Developer | Mobile App Enthusiast | IT Student</h3>
+  <h3>🚀 Full-Stack Developer | Mobile App Enthusiast | IT Student</h3>
 
-  <p align="center">
-    <a href="https://thashmi.vercel.app/">🌐 Portfolio Website</a> •
-    <a href="https://www.linkedin.com/in/thashmi-nadeesha-a24bb2317/">💼 LinkedIn</a> •
-    <a href="mailto:nadeeshathashmi24@gmail.com">📫 Contact Me</a>
-  </p>
+  <p align="center">
+    <a href="https://thashmi.vercel.app/">🌐 Portfolio Website</a> •
+    <a href="https://www.linkedin.com/in/thashmi-nadeesha-a24bb2317/">💼 LinkedIn</a> •
+    <a href="mailto:nadeeshathashmi24@gmail.com">📫 Contact Me</a>
+  </p>
 </div>
 
 ---
@@ -33,31 +33,25 @@ I am a passionate **Software Engineering student** and a **Full-Stack Developer*
 ---
 
 ### 📊 GitHub Activity & Stats
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thashminadeesha01&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thashminadeesha01&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thashminadeesha01&layout=compact&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thashminadeesha01&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thashminadeesha01&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thashminadeesha01&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thashminadeesha01&theme=transparent&hide_border=true" />
 </div>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/thashmi-nadeesha-a24bb2317/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/tha_sh01" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:nadeeshathashmi24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/thashmi-nadeesha-a24bb2317/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/tha_sh01" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:nadeeshathashmi24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p> 
