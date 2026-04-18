@@ -45,7 +45,11 @@ I am a passionate **Software Engineering student** and a **Full-Stack Developer*
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thashminadeesha01&layout=compact&theme=transparent&hide_border=true" />
 </div>
 
+### 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thashminadeesha01/thashminadeesha01/output/github-contribution-grid-snake.svg" />
+</p>
 
 ### 🤝 Connect with Me
 <p align="left">
