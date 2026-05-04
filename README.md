@@ -35,20 +35,23 @@ I am a passionate **Software Engineering student** and a **Full-Stack Developer*
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/thashminadeesha01?base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=Asia%2FColombo" width="100%" />
+  <img src="https://metrics.lecoq.io/thashminadeesha01?base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=Asia%2FColombo" alt="Github Metrics" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thashminadeesha01&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thashminadeesha01&layout=compact&theme=transparent&hide_border=true" />
+  <!-- GitHub Stats Card with Cache Refresh -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thashminadeesha01&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Thashmi's Stats" />
+  
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thashminadeesha01&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thashminadeesha01/thashminadeesha01/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/thashminadeesha01/thashminadeesha01/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ### 🤝 Connect with Me
