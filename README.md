@@ -13,6 +13,7 @@
 ### 💫 About Me
 I am a passionate **Software Engineering student** and a **Full-Stack Developer** dedicated to building innovative, user-centric web and mobile solutions. I specialize in the **MERN stack** and modern frameworks to turn complex problems into intuitive designs.
 
+- 💼 **Currently Working:** Intern → Junior Software Engineer at **Enrich Arcane Pvt Ltd**
 - 🌱 **Currently Learning:** Advanced Next.js Features & Software Engineering Architecture.
 - 👨‍💻 **Portfolio:** Explore my work at [thashmi.vercel.app](https://thashmi.vercel.app/)
 - ⚡ **Fun Fact:** I thrive on solving real-world problems through clean and scalable code.
@@ -43,7 +44,7 @@ I am a passionate **Software Engineering student** and a **Full-Stack Developer*
 <div align="center">
   <!-- GitHub Stats Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thashminadeesha01&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  
+
   <!-- Top Languages Card -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thashminadeesha01&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
 </div>
@@ -55,6 +56,7 @@ I am a passionate **Software Engineering student** and a **Full-Stack Developer*
 </p>
 
 ### 🤝 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/thashmi-nadeesha-a24bb2317/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/tha_sh01" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
