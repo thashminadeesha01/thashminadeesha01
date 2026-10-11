@@ -15,7 +15,6 @@ I am a passionate **Software Engineering student** and a **Full-Stack Developer*
 
 - 💼 **Currently Working:** at **Enrich Arcane Pvt Ltd**
 - 🌱 **Currently Learning:** Advanced Next.js Features & Software Engineering Architecture.
-- 👨‍💻 **Portfolio:** Explore my work at [thashmi.vercel.app](https://thashmi.vercel.app/)
 - ⚡ **Fun Fact:** I thrive on solving real-world problems through clean and scalable code.
 - 💬 **Ask me about:** React Native, Next.js, and Full-Stack Development.
 
