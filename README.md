@@ -13,7 +13,7 @@
 ### 💫 About Me
 I am a passionate **Software Engineering student** and a **Full-Stack Developer** dedicated to building innovative, user-centric web and mobile solutions. I specialize in the **MERN stack** and modern frameworks to turn complex problems into intuitive designs.
 
-- 💼 **Currently Working:** Intern → Junior Software Engineer at **Enrich Arcane Pvt Ltd**
+- 💼 **Currently Working:** at **Enrich Arcane Pvt Ltd**
 - 🌱 **Currently Learning:** Advanced Next.js Features & Software Engineering Architecture.
 - 👨‍💻 **Portfolio:** Explore my work at [thashmi.vercel.app](https://thashmi.vercel.app/)
 - ⚡ **Fun Fact:** I thrive on solving real-world problems through clean and scalable code.
