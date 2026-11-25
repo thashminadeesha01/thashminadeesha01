@@ -6,6 +6,10 @@
     <a href="https://www.linkedin.com/in/thashmi-nadeesha-a24bb2317/">💼 LinkedIn</a> •
     <a href="mailto:nadeeshathashmi24@gmail.com">📫 Contact Me</a>
   </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=thashminadeesha01&label=Profile%20Views&color=2ecc71&style=for-the-badge" alt="Profile Views" />
+  </p>
 </div>
 
 ---
