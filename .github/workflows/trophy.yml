@@ -1,0 +1,24 @@
+name: Generate GitHub Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: thashminadeesha01
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: onedark
