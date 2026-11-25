@@ -40,7 +40,7 @@ I am a passionate **Software Engineering student** and a **Full-Stack Developer*
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=thashminadeesha01&theme=onedark&margin-w=10&margin-h=10&no-bg=true&column=6" alt="GitHub Trophies" />
+    <img src="https://raw.githubusercontent.com/thashminadeesha01/thashminadeesha01/main/trophy.svg" alt="GitHub Trophies" />
   </a>
 </p>
 
