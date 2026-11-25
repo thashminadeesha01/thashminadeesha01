@@ -36,6 +36,16 @@ I am a passionate **Software Engineering student** and a **Full-Stack Developer*
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thashminadeesha01&theme=onedark&margin-w=10&margin-h=10&no-bg=true&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ### 📈 Contribution Activity
 
 <div align="center">
